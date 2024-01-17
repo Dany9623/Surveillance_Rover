@@ -8,9 +8,13 @@ We can control Rover automatically or can be manually based on the situation. Ro
 OBJECTIVE
 
 ● Development of light security mechanisms.
+
 ● Security and privacy must be maintained from the information source (sensors in or on the body, nanoscale communications system, etc.) to the final destination.
+
 ● Wireless communication system.
+
 ● These systems mainly consist of high-quality cameras, multiple computers for monitoring, and servers for storing.
+
 ● Advanced knowledge in the area of intelligent wireless networks.
 
 METHODOLOGY
