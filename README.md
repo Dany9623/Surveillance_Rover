@@ -6,17 +6,17 @@ Rover, at the intersection of IoT and robotics, focuses on enhancing security, r
 
 **Key Focus Areas**
 
-**Security and Surveillance:** Ideal for remote monitoring and security in hazardous areas.
+***Security and Surveillance:** Ideal for remote monitoring and security in hazardous areas.
 
-**Reduced Human Risk:** Designed to minimize human exposure to danger.
+***Reduced Human Risk:** Designed to minimize human exposure to danger.
 
-**Flexible Control:** Can be operated both manually and automatically.
+***Flexible Control:** Can be operated both manually and automatically.
 
-**Army Support:** Assists in army operations with a focus on safe navigation and detection in dangerous zones.
+***Army Support:** Assists in army operations with a focus on safe navigation and detection in dangerous zones.
 
 **Objectives**
 
-**Light Security Mechanisms:** Implement lightweight security features for operational efficiency.
+***Light Security Mechanisms:** Implement lightweight security features for operational efficiency.
 
 **Data Security and Privacy:** Maintain stringent security from sensor data to its final destination.
 
