@@ -1,22 +1,36 @@
-INTRODUCTION
+**Introduction**
+Rover, at the intersection of IoT and robotics, focuses on enhancing security, remote surveillance, and monitoring. It's an integral tool for navigating and detecting movement in collapsed or hazardous areas, significantly contributing to the safety and efficiency of operations in challenging environments.
 
-The development of IoT applications with robotics is an ongoing revaluation. Rover mainly focuses on security, remote surveillance, monitoring, and detecting Movement in collapsed places.
-Rover has become the most important research topic over the past decade. Through the Project, we put forward a surveillance robot that can be used in dangerous areas and many other places.
-Rovers becoming important in day-to-day activities as they reduce human lives and support.
-We can control Rover automatically or can be manually based on the situation. Rover focuses on the design and implementation of Army support for detection and avoidance in hazardous areas.
+**Key Focus Areas**
+Security and Surveillance: Ideal for remote monitoring and security in hazardous areas.
+Reduced Human Risk: Designed to minimize human exposure to danger.
+Flexible Control: Can be operated both manually and automatically.
+Army Support: Assists in army operations with a focus on safe navigation and detection in dangerous zones.
 
-OBJECTIVE
+**Objectives**
+Light Security Mechanisms: Implement lightweight security features for operational efficiency.
+Data Security and Privacy: Maintain stringent security from sensor data to its final destination.
+Wireless Communication Systems: Utilize advanced wireless communication for data transmission.
+High-Quality Equipment: Equip with state-of-the-art cameras, monitoring computers, and storage servers.
+Intelligent Wireless Networks: Develop expertise in smart, efficient wireless networking.
 
-● Development of light security mechanisms.
+**Features**
+Autonomous Navigation: GPS and AI integration for independent terrain navigation.
+Real-Time Data Encryption: Ensures secure data transmission.
+Environmental Resilience: Built to withstand diverse environmental challenges.
+Live Monitoring: Enables streaming of live footage and sensor data.
+Modular Design: Supports additional modules like thermal imaging based on requirements.
+Energy Efficient: Focus on battery optimization and renewable energy.
+User-Friendly Interface: Easy-to-use control panel for operators.
+Regular Updates: Commitment to continuous software enhancements and maintenance.
 
-● Security and privacy must be maintained from the information source (sensors in or on the body, nanoscale communications system, etc.) to the final destination.
+**Usage**
+Initial Setup: Instructions on powering and initializing the Rover and quadcopter.
+Operation Guidelines: Detailed guide on how to operate the Rover, interpret sensor data, and respond to alerts.
+Battery Management: Best practices for battery monitoring and maintenance.
 
-● Wireless communication system.
-
-● These systems mainly consist of high-quality cameras, multiple computers for monitoring, and servers for storing.
-
-● Advanced knowledge in the area of intelligent wireless networks.
-
-METHODOLOGY
-
-The first quadcopter & camera got power and turned on. Then quadcopter starts mapping the area for 30 min. If any human live or smoke is detected while mapping it gives the location of that place immediately to the operator by sending an image. While quadcopter mapping the place rover also works simultaneously. To control sensors Arduino microcontroller is used. To control the four wheels of the rover BTS7960 motor driver we have used and to control servo motors of mechanical claw & camera we have used servo motor driver module. Rover can’t be accessed until the RFID is not matched. If RFID matched then the rover follows the path provided by the operator. While surveying the area if any sensor got logic 1 then the microcontroller activated all the sensors. If any human or smoke is detected by these sensors, then immediately alert the authorities. Among all these, if the battery is less than 10% then the operator gets a red light blinking and has to take the back rover to the base station immediately.
+**Methodology**
+Simultaneous Mapping: Quadcopter and Rover work in tandem for area surveying.
+Sensor Management: Utilize Arduino for sensor control and BTS7960 motor driver for movement.
+Security Access: RFID-based access control system.
+Emergency Protocols: Automated alerts in case of detection of humans, smoke, or critical battery levels.
