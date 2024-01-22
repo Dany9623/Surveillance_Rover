@@ -18,46 +18,46 @@ Rover, at the intersection of IoT and robotics, focuses on enhancing security, r
 
 ***Light Security Mechanisms:** Implement lightweight security features for operational efficiency.
 
-**Data Security and Privacy:** Maintain stringent security from sensor data to its final destination.
+***Data Security and Privacy:** Maintain stringent security from sensor data to its final destination.
 
-**Wireless Communication Systems:** Utilize advanced wireless communication for data transmission.
+***Wireless Communication Systems:** Utilize advanced wireless communication for data transmission.
 
-**High-Quality Equipment:** Equip with state-of-the-art cameras, monitoring computers, and storage servers.
+***High-Quality Equipment:** Equip with state-of-the-art cameras, monitoring computers, and storage servers.
 
-**Intelligent Wireless Networks:** Develop expertise in smart, efficient wireless networking.
+***Intelligent Wireless Networks:** Develop expertise in smart, efficient wireless networking.
 
 **Features**
 
-**Autonomous Navigation:** GPS and AI integration for independent terrain navigation.
+***Autonomous Navigation:** GPS and AI integration for independent terrain navigation.
 
-**Real-Time Data Encryption:** Ensures secure data transmission.
+***Real-Time Data Encryption:** Ensures secure data transmission.
 
-**Environmental Resilience:** Built to withstand diverse environmental challenges.
+***Environmental Resilience:** Built to withstand diverse environmental challenges.
 
-**Live Monitoring:** Enables streaming of live footage and sensor data.
+***Live Monitoring:** Enables streaming of live footage and sensor data.
 
-**Modular Design:** Supports additional modules like thermal imaging based on requirements.
+***Modular Design:** Supports additional modules like thermal imaging based on requirements.
 
-**Energy Efficient:** Focus on battery optimization and renewable energy.
+***Energy Efficient:** Focus on battery optimization and renewable energy.
 
-**User-Friendly Interface:** Easy-to-use control panel for operators.
+***User-Friendly Interface:** Easy-to-use control panel for operators.
 
-**Regular Updates:** Commitment to continuous software enhancements and maintenance.
+***Regular Updates:** Commitment to continuous software enhancements and maintenance.
 
 **Usage**
 
-**Initial Setup:** Instructions on powering and initializing the Rover and quadcopter.
+***Initial Setup:** Instructions on powering and initializing the Rover and quadcopter.
 
-**Operation Guidelines:** Detailed guide on how to operate the Rover, interpret sensor data, and respond to alerts.
+***Operation Guidelines:** Detailed guide on how to operate the Rover, interpret sensor data, and respond to alerts.
 
-**Battery Management:** Best practices for battery monitoring and maintenance.
+***Battery Management:** Best practices for battery monitoring and maintenance.
 
 **Methodology**
 
-**Simultaneous Mapping:** Quadcopter and Rover work in tandem for area surveying.
+***Simultaneous Mapping:** Quadcopter and Rover work in tandem for area surveying.
 
-**Sensor Management:** Utilize Arduino for sensor control and BTS7960 motor driver for movement.
+***Sensor Management:** Utilize Arduino for sensor control and BTS7960 motor driver for movement.
 
-**Security Access:** RFID-based access control system.
+***Security Access:** RFID-based access control system.
 
-**Emergency Protocols:** Automated alerts in case of detection of humans, smoke, or critical battery levels.
+***Emergency Protocols:** Automated alerts in case of detection of humans, smoke, or critical battery levels.
